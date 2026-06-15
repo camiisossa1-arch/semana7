@@ -1,0 +1,31 @@
+PRUEBA 1: Método POST - Crear reporte
+URL: http://localhost:3000/reportes
+Método: POST
+Body JSON enviado:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Hueco en la vía principal"
+}
+Respuesta del servidor:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Hueco en la vía principal"
+  }
+}
+Estado: 201 Created ✅
+
+PRUEBA 2: Método GET - Listar reportes
+URL: http://localhost:3000/reportes
+Método: GET
+Respuesta del servidor:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Hueco en la vía principal"
+  }
+]
+Estado: 200 OK ✅
