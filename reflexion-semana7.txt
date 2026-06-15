@@ -1,0 +1,15 @@
+REFLEXIÓN SEMANA 7
+
+1. Es importante que las comunidades registren reportes porque así las autoridades 
+   pueden conocer los problemas reales de cada zona.
+2. Una plataforma tecnológica permite que cualquier ciudadano reporte desde su celular,
+   sin necesidad de ir a una oficina.
+3. Consultar reportes ayuda a que la comunidad vea qué problemas ya están siendo atendidos
+   y cuáles siguen pendientes.
+4. Esto genera transparencia y participación ciudadana.
+5. Con una API se pueden conectar apps móviles para reportar más fácil.
+6. Los datos quedan organizados y se pueden analizar para tomar decisiones.
+7. En mi API de semana 7 usé GET para consultar y POST para registrar reportes.
+8. Aprendí que guardar datos en memoria sirve para practicar, pero en la vida real 
+   se usa una base de datos.
+9. Esta semana entendí cómo funciona la comunicación entre una

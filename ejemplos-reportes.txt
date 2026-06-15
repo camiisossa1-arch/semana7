@@ -1,0 +1,13 @@
+EJEMPLOS DE REPORTES
+
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Hueco en la vía principal del barrio"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Árbol caído bloqueando la carretera"
+}
