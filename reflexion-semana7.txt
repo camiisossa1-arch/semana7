@@ -12,4 +12,4 @@ REFLEXIÓN SEMANA 7
 7. En mi API de semana 7 usé GET para consultar y POST para registrar reportes.
 8. Aprendí que guardar datos en memoria sirve para practicar, pero en la vida real 
    se usa una base de datos.
-9. Esta semana entendí cómo funciona la comunicación entre una
+9. Esta semana entendí cómo funciona la comunicación entre una app y el servidor usando GET y POST
